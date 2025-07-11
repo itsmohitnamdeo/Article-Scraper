@@ -89,6 +89,13 @@ python scraper_browserstack.py
 
 ---
 
+### 📷 Screenshot
+
+<img width="928" height="495" alt="screenshot" src="https://github.com/user-attachments/assets/e68d2d65-08d3-40d3-8d69-6311a2b21558" />
+
+
+---
+
 ## 🗂 Output
 
 - **CSV Files** in `/csv`
